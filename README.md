@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Project Overview
-**ASD-NeuroML** is a specialized data science project focused on enhancing the accuracy of Autism Spectrum Disorder (ASD) screenings using supervised learning. By analyzing behavioral traits and clinical markers—such as **A1-A10 scores**, age, and family history—this model provides a high-precision tool for identifying potential ASD indicators early in the developmental cycle.
+**ASD-NeuroML** is a specialized data science project focused on enhancing the accuracy of Autism Spectrum Disorder (ASD) screenings using supervised learning. By analyzing behavioral traits and clinical markers—such as **A1-A10 scores**, age, and family history—this model provides a high-precision tool for identifying potential ASD indicators in the developmental cycle.
 
 ## 🚀 Key Features
 * **Feature-Driven Classification:** Utilizes behavioral screening scores (AQ-10) and clinical history to predict ASD traits.
