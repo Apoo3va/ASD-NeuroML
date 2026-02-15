@@ -1,7 +1,7 @@
 # 🧠 ASD-NeuroML 
 ### *A Machine Learning Approach to Early-Stage Autism Spectrum Disorder Detection*
 
-Python
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![ML](https://img.shields.io/badge/ML-Classification-green)](https://scikit-learn.org/)
 [![Status](https://img.shields.io/badge/Status-Active-orange)](#)
 
